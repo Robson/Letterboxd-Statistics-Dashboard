@@ -1,5 +1,7 @@
-# Letterboxd-Statistics-Dashboard
+# Letterboxd Statistics Dashboard
 A work-in-progress C# application for generating a webpage that shows statisrtics for your watched films on Letterboxd
+
+## Testers
 
 I am interested in testers for this. You would be an ideal candidate if:
 
